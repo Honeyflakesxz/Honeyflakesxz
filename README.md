@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🍯 Honeyflakesxz
 
-<!--
-**Honeyflakesxz/Honeyflakesxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Alter Ego**
 
-Here are some ideas to get you started:
+just breaking stuff and learning what sticks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What's this?
+
+I do random shenanigans here
+
+```kotlin
+class Honeyflakesxz {
+  final String origin = "Cebu, Philippines"
+  final String personality = "the experimental one"
+  
+  final List<String> doHere = listOf(
+    "UI/UX experiments",
+    "rapid prototyping",
+    "framework hopping"
+  )
+
+  final String philosophy = "best way to learn is to build and break it"
+}
+```
+
+---
+
+## 🛠️ Stuff i mess with
+
+### 🎨 Frontend things
+- Flutter / Dart
+- Vue.js / Nuxt.js
+- Astro
+- TypeScript / JavaScript
+- UI/UX prototyping
+
+### ⚙️ Backend stuff
+- Go
+- C#
+- Hono
+- Bun
+- PostgreSQL / Supabase
+
+### 📚 Currently exploring
+- Kotlin
+- React Native
+- whatever feels interesting
+
+---
+</div>
